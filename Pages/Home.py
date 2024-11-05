@@ -4,4 +4,4 @@ class Home:
     def __int__(self):
         pass
     def app(self):
-        st.write("Abandon all hope, ye who enter here")
+        st.write('Abandon All Hope, Ye Who Enter Here')
